@@ -1,6 +1,6 @@
 # Quiz
 
-This is a site where student can take quizzes and see their results. 
+This is a site where students can take quizzes and see their results. 
 
 ### Website preview
 [Quizzz](https://gitaccsithu.github.io/Quizzz/). 
@@ -35,7 +35,7 @@ This is a site where student can take quizzes and see their results.
 
 ### Details about the project
 
-Studnets can take quizzes like multiple choice form. There are preloaded correct answers in JavaScript file. When the student answered all of the answers and submit these, this website will scroll all the way up to the place where total score will show up. Then the total score will show up with nice count up animation. ![](./screenshots/scores.png) All of the rights answers will show with green radio buttons ans mistakes will show with red. ![](./screenshots/show_results.png) The student can retake the quiz exam by clicking the reload arrow button. 
+Students can take quizzes with multiple-choice forms. There are preloaded correct answers in the JavaScript file. When the student answers all of the answers and submits these, this website will scroll up to the place where the total score will show up. Then the total score will show up with a nice count-up animation. ![](./screenshots/scores.png) All of the rights answers will show with green radio buttons and mistakes will show with red. ![](./screenshots/show_results.png) The student can retake the quiz exam by clicking the reload arrow button. 
 
 ## Author
 
