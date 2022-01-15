@@ -1,4 +1,4 @@
-# Quiz
+# Quizzz
 
 This is a site where students can take quizzes and see their results. 
 
